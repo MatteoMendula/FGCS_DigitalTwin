@@ -1,0 +1,1 @@
+{"units": 500, "sr": 0.3852529361763695, "mu": 1.0, "input_scaling": 0.40036370642322167, "learning_rate": 2.677709624633953e-05, "connectivity": 0.23099989346074634, "activation": "tanh", "ridge": 4.696769802550449, "epochs": 100, "warmup": 100, "seed": 12345, "n_instances": 5, "score": -0.02573376908735296}
